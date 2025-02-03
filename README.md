@@ -12,21 +12,37 @@ Instrucciones para realizar un modelo fotogramétrico de la Puerta de la Coroner
 Ahora vamos a ir paso por paso [5], lo primero que hay que hacer, si no se tiene, es crearse una cuenta en eyescloud3d.com.  
 Después entrar en esa cuenta
   ![alt text](https://github.com/dieza/PUERTA_CORONERIA/blob/main/imatges/00entrar.png?raw=true)  
+#  Ahora vamos a crear un modelo nuevo, damos al botón "haz tu modelo 3D"  
   ![alt text](https://github.com/dieza/PUERTA_CORONERIA/blob/main/imatges/0_crear_nuevo_modelo_png)  
+##  Luego, cargamos las imágenes  
   ![alt text](https://github.com/dieza/PUERTA_CORONERIA/blob/main/imatges/1_cargar_imagenes_png)  
+##  Comprobamos que están todas las imágenes cargadas   
   ![alt text](https://github.com/dieza/PUERTA_CORONERIA/blob/main/imatges/2_comprobar_imagenes_cargadas.png)  
+##  Una vez que el modelo se ha creado, nos llegará un mensaje de que el modelo está listo y podemos dar a ver el modelo.  
   ![alt text](https://github.com/dieza/PUERTA_CORONERIA/blob/main/imatges/3_ver_el_modelo.png)  
+##  Podemoslos escoger entre nube de puntos y malla, vamos a escoger malla  
   ![alt text](https://github.com/dieza/PUERTA_CORONERIA/blob/main/imatges/4_malla.png)  
+  ## Ya estamos listos para trabajar con el modelo, primero veremos las herramientas básicas  
   ![alt text](https://github.com/dieza/PUERTA_CORONERIA/blob/main/imatges/5_herramientas_basicas.png)  
+  ## Después veremos las herramientas avanzadas
   ![alt text](https://github.com/dieza/PUERTA_CORONERIA/blob/main/imatges/6_herramientas_avanzadas.png)   
+  ## Unas que nos serán de mucha utilidad son las herramientas de medición, 
   ![alt text](https://github.com/dieza/PUERTA_CORONERIA/blob/main/imatges/7_medir.png)  
+  ## pero antes debemos haber escalado  
   ![alt text](https://github.com/dieza/PUERTA_CORONERIA/blob/main/imatges/8_escala.png)  
+  ## Bien interesantes son las herramientas que permiten modificar el modelo  
   ![alt text](https://github.com/dieza/PUERTA_CORONERIA/blob/main/imatges/9_modificar.png)  
+  ## También conviene ver las herramientas agrupadas en vista, entre las que destacan  
   ![alt text](https://github.com/dieza/PUERTA_CORONERIA/blob/main/imatges/10_vista.png)  
+  ## la de proyeccion y la
   ![alt text](https://github.com/dieza/PUERTA_CORONERIA/blob/main/imatges/11_proyeccion.png)  
+  ## de la primera persona
   ![alt text](https://github.com/dieza/PUERTA_CORONERIA/blob/main/imatges/12_yo.png)  
+  ## Desde un punto de vista técnico, la más interesante es la redacción de informes.
   ![alt text](https://github.com/dieza/PUERTA_CORONERIA/blob/main/imatges/13_iota.png)  
+  ## Tambien podemos mover el modelo
   ![alt text](https://github.com/dieza/PUERTA_CORONERIA/blob/main/imatges/14_movimiento.png)  
+  ## O ver diferentes vistas del mismo
   ![alt text](https://github.com/dieza/PUERTA_CORONERIA/blob/main/imatges/15_multicam.png)  
 
 [1] https://www.agisoft.com  
