@@ -20,7 +20,7 @@ Después, entrar en esa cuenta
   ![alt text](https://github.com/dieza/PUERTA_CORONERIA/blob/main/imatges/2_comprobar_imagenes_cargadas.png)  
 ##  Una vez que el modelo se ha creado, nos llegará un mensaje de que el modelo está listo y podemos dar a ver el modelo.  
   ![alt text](https://github.com/dieza/PUERTA_CORONERIA/blob/main/imatges/3_ver_el_modelo.png)  
-##  Podemoslos escoger entre nube de puntos y malla, vamos a escoger malla  
+##  Podemos escoger entre nube de puntos y malla, vamos a escoger malla  
   ![alt text](https://github.com/dieza/PUERTA_CORONERIA/blob/main/imatges/4_malla.png)  
   ## Ya estamos listos para trabajar con el modelo, primero veremos las herramientas básicas  
   ![alt text](https://github.com/dieza/PUERTA_CORONERIA/blob/main/imatges/5_herramientas_basicas.png)  
